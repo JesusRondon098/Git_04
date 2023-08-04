@@ -21,4 +21,3 @@ function cuadrado(x) {
     return resultado
 }
 module.exports = {sumar,restar, producto, dividir, cuadrado}
- console.log(resultado);
