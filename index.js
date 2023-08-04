@@ -1,6 +1,6 @@
 //
 console.log("*****Reto2****");
-function sumar(x,y,z) {
+function sumar(x, y, z) {
     let resultado = x + y +z
     return resultado
 }
