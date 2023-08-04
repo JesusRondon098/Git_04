@@ -1,5 +1,9 @@
 //
 console.log("*****Reto2****");
+function sumar(x,y) {
+    let resultado = x + y
+    return resultado
+}
 function restar(x,y) {
     let resultado = x - y
     return resultado
