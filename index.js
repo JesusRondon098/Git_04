@@ -20,4 +20,5 @@ function cuadrado(x) {
     let resultado = x*x
     return resultado
 }
-module.exports = {restar, producto, dividir, cuadrado}
+module.exports = {sumar,restar, producto, dividir, cuadrado}
+ console.log(resultado);
